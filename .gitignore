@@ -1,3 +1,15 @@
+# Custom
+dataset1/
+dataset2/
+dataset_comb1/
+old/
+preview/
+test/
+*.npy
+*.json
+*.h5
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
